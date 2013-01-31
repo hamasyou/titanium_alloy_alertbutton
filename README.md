@@ -26,6 +26,24 @@ function doDispose() {
 }
 ```
 
+### config.json ###
+Add dependencies of `app/config.json`
+
+```json
+{
+    "global": {},
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:ios": {},
+    "os:android": {},
+    "dependencies": {
+        "jp.co.mountposition.alertbutton", "1.0"
+    }
+}
+```
+
+
 ### I18n ###
 #### i18n/ja/strings.xml ####
 Wording of the cancellation is compatible with I18n.
