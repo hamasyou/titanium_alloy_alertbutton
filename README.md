@@ -38,7 +38,7 @@ Add dependencies of `app/config.json`
     "os:ios": {},
     "os:android": {},
     "dependencies": {
-        "jp.co.mountposition.alertbutton", "1.0"
+        "jp.co.mountposition.alertbutton": "1.0"
     }
 }
 ```
