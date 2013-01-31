@@ -38,10 +38,15 @@ Wording of the cancellation is compatible with I18n.
 </resources>
 ```
 
-
 License
 ----------
 Written by [@hamasyou](https://twitter.com/hamasyou/)
 Copyright &copy; 2013 MountPosition Inc.
 Licensed under the [MIT License][MIT]
 [MIT]: http://www.opensource.org/licenses/mit-license.php
+
+
+
+Reference
+------
+- [ThanksObento](http://mountposition.co.jp/obento/)
