@@ -1,0 +1,9 @@
+'#alertButton': {
+    font: {fontSize: 18, fontWeight: 'bold'},
+    backgroundColor: 'transparent',
+    backgroundImage: WPATH('/images/btn-alert.png'),
+    borderWidth: '0',
+    color: '#FFFFFF',
+    width: '292dp',
+    height: '45dp'
+}

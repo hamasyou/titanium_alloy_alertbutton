@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Widget src="jp.co.mountposition.alertbutton" title="Delete" onDispose="doDispose" />
+	</Window>
+</Alloy>
